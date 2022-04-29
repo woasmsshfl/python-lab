@@ -1,5 +1,9 @@
 # 파이썬 자료형
 
+# 부울 True, False (Boolean 타입 : 첫글자가 대문자여야 한다.)
+b1 = True
+b2 = False
+
 # 정수
 n1 = 1 
 
@@ -38,3 +42,4 @@ print(type(n2)) #float
 print(type(s1))  #str
 print(type(s2))
 print(type(s3))
+
